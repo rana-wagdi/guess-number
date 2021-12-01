@@ -1,0 +1,33 @@
+body{
+    background-image: url(./img/background-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+.header h1{
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    margin: 9rem auto 7rem;
+    
+}
+.main-button{
+     text-align: center;
+}
+.main-button button{
+    padding: 1rem 2rem;
+    margin: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    box-shadow: 1px 1px 5px grey;
+}
+.main-button button:hover{
+    background-color: #c4c4c4;
+}
+.main-button button a{
+    text-decoration: none;
+    color: #000;
+}
+
